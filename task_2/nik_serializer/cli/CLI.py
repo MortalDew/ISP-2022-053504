@@ -10,7 +10,7 @@ class CLI:
 
     def parse_args(self):
         self.__parser = argparse.ArgumentParser(
-            description='Dmitry Pekutko formats serializer'
+            description='NO DESCRIPTION'
         )
         self.__parser.add_argument(
             "--source", type=str, help="File path to parse"
